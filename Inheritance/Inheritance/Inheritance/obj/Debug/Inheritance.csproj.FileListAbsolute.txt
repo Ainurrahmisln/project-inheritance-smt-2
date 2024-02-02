@@ -1,0 +1,6 @@
+C:\semester 2\pemprograman\cobaaa\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+C:\semester 2\pemprograman\cobaaa\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+C:\semester 2\pemprograman\cobaaa\Inheritance\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+C:\semester 2\pemprograman\cobaaa\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+C:\semester 2\pemprograman\cobaaa\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+C:\semester 2\pemprograman\cobaaa\Inheritance\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
